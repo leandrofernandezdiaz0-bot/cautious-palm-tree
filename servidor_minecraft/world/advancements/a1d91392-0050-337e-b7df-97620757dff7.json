@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2025-08-21 18:20:00 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
